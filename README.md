@@ -213,3 +213,6 @@ MakeHuman is offered as a complete free version with all features and updates in
 ---
 
 Unlock your creativity with MakeHuman and start creating stunning 3D human figures today! Download now and experience the full power of this amazing tool!
+
+---
+**Last updated:** 2026-09-16 00:02:08 UTC
